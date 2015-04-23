@@ -1,0 +1,231 @@
+UserInterface opened log.txt.
+TransDataA3.txt opened by UserInterface.
+MainDataA3.txt created / cleared.
+opened IndexBackup file
+MainDataA3.txt created / cleared.
+[SUB]  LCH  NAME--------------  DRP  RCH
+[000]  003  JAPAN               035  001
+[001]  002  NORWAY              028  004
+[002]  -01  KENYA               005  007
+[003]  008  EGYPT               014  010
+[004]  020  PAKISTAN            010  005
+[005]  018  UNITED KINGDOM      026  006
+[006]  011  ZAMBIA              001  -01
+[007]  025  MOZAMBIQUE          002  -01
+[008]  009  CANADA              034  014
+[009]  016  BOTSWANA            003  -01
+[010]  013  HAITI               006  017
+[011]  -01  UNITED STATES       025  012
+[012]  022  WESTERN SAHARA      007  015
+[013]  024  GABON               008  -01
+[014]  -01  DOMINICAN REPUBLIC  023  -01
+[015]  -01  YUGOSLAVIA          020  -01
+[016]  -01  ANDORRA             037  -01
+[017]  -01  INDIA               012  -01
+[018]  021  RUSSIAN FEDERATION  016  019
+[019]  -01  SYRIA               017  023
+[020]  -01  OMAN                018  -01
+[021]  -01  QATAR               019  -01
+[022]  -01  VENEZUELA           021  -01
+[023]  -01  TAIWAN              024  -01
+[024]  -01  FRANCE              029  -01
+[025]  -01  LIECHTENSTEIN       031  -01
+Closed IndexBackup file
+ 
+ + + + + + + + + + + + + + + QN + +  + + + + + + +
+QN Japan
+JPN  Japan               Asia           0126714000  80.7
+[1 BST Nodes Visited]
+ 
+QN Liechtenstein
+LIE  Liechtenstein       Europe         0000032300  78.8
+[5 BST Nodes Visited]
+ 
+QN Venezuela
+VEN  Venezuela           South America  0024170000  73.1
+[8 BST Nodes Visited]
+ 
+QN Andorra
+AND  Andorra             Europe         0000078000  83.5
+[5 BST Nodes Visited]
+ 
+QN andorra
+AND  Andorra             Europe         0000078000  83.5
+[5 BST Nodes Visited]
+ 
+QN kansas
+**ERROR : no country named KANSAS            
+[3 BST Nodes Visited]
+ 
+QN Zambia
+ZMB  Zambia              Africa         0009169000  37.2
+[5 BST Nodes Visited]
+ 
+QN Albania
+**ERROR : no country named ALBANIA           
+[5 BST Nodes Visited]
+ 
+QN Zanzibar
+**ERROR : no country named ZANZIBAR          
+[5 BST Nodes Visited]
+ 
+QN Antartic
+**ERROR : no country named ANTARTIC          
+[5 BST Nodes Visited]
+ 
+QN France
+FRA  France              Europe         0059225700  78.8
+[5 BST Nodes Visited]
+ 
+QN FRANCE
+FRA  France              Europe         0059225700  78.8
+[5 BST Nodes Visited]
+ 
+QN FranCE
+FRA  France              Europe         0059225700  78.8
+[5 BST Nodes Visited]
+ 
+QN Franc
+**ERROR : no country named FRANC             
+[5 BST Nodes Visited]
+ 
+QN France && Provence
+**ERROR : no country named FRANCE && PROVENCE
+[5 BST Nodes Visited]
+ 
+QN France            
+FRA  France              Europe         0059225700  78.8
+[5 BST Nodes Visited]
+ 
+QN Above Ends With 12 Spaces
+**ERROR : no country named ABOVE ENDS WITH 12 SPACES
+[5 BST Nodes Visited]
+ 
+QN United
+**ERROR : no country named UNITED            
+[7 BST Nodes Visited]
+ 
+QN United States
+USA  United States       North America  0278357000  77.1
+[6 BST Nodes Visited]
+ 
+QN United Kingdom
+GBR  United Kingdom      Europe         0059623400  77.7
+[4 BST Nodes Visited]
+ 
+QN United States of America
+**ERROR : no country named UNITED STATES OF AMERICA
+[8 BST Nodes Visited]
+ 
+QN United States     of America
+**ERROR : no country named UNITED STATES     OF AMERICA
+[8 BST Nodes Visited]
+ 
+QN United States     of Mickey Mouse
+**ERROR : no country named UNITED STATES     OF MICKEY MOUSE
+[8 BST Nodes Visited]
+ 
+QN United Queendom
+**ERROR : no country named UNITED QUEENDOM   
+[6 BST Nodes Visited]
+ 
+QN Iceland
+**ERROR : no country named ICELAND           
+[4 BST Nodes Visited]
+ 
+QN India
+IND  India               Asia           1013662000  62.5
+[4 BST Nodes Visited]
+ 
+QN Latvia
+**ERROR : no country named LATVIA            
+[5 BST Nodes Visited]
+ 
+QN Western Michigan University
+**ERROR : no country named WESTERN MICHIGAN UNIVERSITY
+[8 BST Nodes Visited]
+ 
+QN # is < 0-9 (& so < A-Z)
+**ERROR : no country named # IS < 0-9 (& SO < A-Z)
+[5 BST Nodes Visited]
+ 
+QN 4 is < A-Z
+**ERROR : no country named 4 IS < A-Z        
+[5 BST Nodes Visited]
+ 
+QN = is > 0-9 & < A-Z
+**ERROR : no country named = IS > 0-9 & < A-Z
+[5 BST Nodes Visited]
+ 
+QN ] is > A-Z & < a-z
+**ERROR : no country named ] IS > A-Z & < A-Z
+[5 BST Nodes Visited]
+ 
+QN } is > a-z
+**ERROR : no country named } IS > A-Z        
+[5 BST Nodes Visited]
+ 
++ + + + + + + + + + + + + + + + + + + END OF QUERIES + + + + + + + + + +
+ 
++ + + + + + + + + + + LI + + + + + + + + + + + + +
+CODE NAME--------------  CONTINENT----  -POPULAION  l.EXP
+AND  Andorra             Europe         0000078000  83.5
+BWA  Botswana            Africa         0001622000  39.3
+CAN  Canada              North America  0031147000  79.4
+DOM  Dominican Republic  North America  0008495000  73.2
+EGY  Egypt               Africa         0068470000  63.3
+FRA  France              Europe         0059225700  78.8
+GAB  Gabon               Africa         0001226000  50.1
+HTI  Haiti               North America  0008222000  49.2
+IND  India               Asia           1013662000  62.5
+JPN  Japan               Asia           0126714000  80.7
+KEN  Kenya               Africa         0030080000  48.0
+LIE  Liechtenstein       Europe         0000032300  78.8
+MOZ  Mozambique          Africa         0019680000  37.5
+NOR  Norway              Europe         0004478500  78.7
+OMN  Oman                Asia           0002542000  71.8
+PAK  Pakistan            Asia           0156483000  61.1
+QAT  Qatar               Asia           0000599000  72.4
+RUS  Russian Federation  Europe         0146934000  67.2
+SYR  Syria               Asia           0016125000  68.5
+TWN  Taiwan              Asia           0022256000  76.4
+GBR  United Kingdom      Europe         0059623400  77.7
+USA  United States       North America  0278357000  77.1
+VEN  Venezuela           South America  0024170000  73.1
+ESH  Western Sahara      Africa         0000293000  49.8
+YUG  Yugoslavia          Europe         0010640000  72.4
+ZMB  Zambia              Africa         0009169000  37.2
++ + + + + + + + + + + + + + + + + + + END OF DATA - 26 COUNTRIES + + + + + + + + + +
+UserApp completed. Transactions handled: 34. Total transactions: 34
+opened IndexBackup file
+MainDataA3.txt created / cleared.
+[SUB]  LCH  NAME--------------  DRP  RCH
+[000]  003  JAPAN               035  001
+[001]  002  NORWAY              028  004
+[002]  -01  KENYA               005  007
+[003]  008  EGYPT               014  010
+[004]  020  PAKISTAN            010  005
+[005]  018  UNITED KINGDOM      026  006
+[006]  011  ZAMBIA              001  -01
+[007]  025  MOZAMBIQUE          002  -01
+[008]  009  CANADA              034  014
+[009]  016  BOTSWANA            003  -01
+[010]  013  HAITI               006  017
+[011]  -01  UNITED STATES       025  012
+[012]  022  WESTERN SAHARA      007  015
+[013]  024  GABON               008  -01
+[014]  -01  DOMINICAN REPUBLIC  023  -01
+[015]  -01  YUGOSLAVIA          020  -01
+[016]  -01  ANDORRA             037  -01
+[017]  -01  INDIA               012  -01
+[018]  021  RUSSIAN FEDERATION  016  019
+[019]  -01  SYRIA               017  023
+[020]  -01  OMAN                018  -01
+[021]  -01  QATAR               019  -01
+[022]  -01  VENEZUELA           021  -01
+[023]  -01  TAIWAN              024  -01
+[024]  -01  FRANCE              029  -01
+[025]  -01  LIECHTENSTEIN       031  -01
+MainDataA3.txt closed.
+TransDataA3.txt closed by UserInterface.
+log.txt closed by UserInterface.
